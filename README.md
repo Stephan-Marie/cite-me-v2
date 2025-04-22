@@ -32,7 +32,7 @@ CiteMe is a web application designed to help users generate properly formatted c
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/cite-me.git
+   git clone https://github.com/Stephan-Marie/cite-me-v2.git
    cd cite-me
    ```
 
